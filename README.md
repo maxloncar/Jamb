@@ -1,2 +1,2 @@
-# Jamb
-Zadatak 1 LV1 iz kolegija Razvoj mobilnih aplikacija
+# Short version of Jamb created with Kotlin
+Razvoj mobilnih aplikacija (Mobile development)
